@@ -4,7 +4,7 @@ SRC = main.cpp \
 
 OBJ = ${SRC:.cpp=.o}
 
-NAME = Zombie
+NAME = Horde
 
 CC = c++
 
