@@ -19,5 +19,11 @@ int main()
 		club.setType("some other type of club");
 		jim.attack();
 	}
+	// {
+	// 	std::cout << std::endl;
+	// 	HumanB john("John");
+	// 	john.attack();
+	// }
+	// a gerer ?
 	return 0;
 }

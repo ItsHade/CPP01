@@ -14,7 +14,7 @@ Weapon::Weapon(std::string type) : _type(type)
 
 Weapon::~Weapon(void)
 {
-	std::cout << "Destructor called for weapon of type" << _type << std::endl;
+	std::cout << "Destructor called for weapon of type " << _type << std::endl;
 	return ;
 }
 

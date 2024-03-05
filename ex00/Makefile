@@ -5,7 +5,7 @@ SRC = main.cpp \
 
 OBJ = ${SRC:.cpp=.o}
 
-NAME = Zombie
+NAME = zombie
 
 CC = c++
 

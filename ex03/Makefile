@@ -2,7 +2,7 @@ SRC = main.cpp Weapon.cpp HumanA.cpp HumanB.cpp
 
 OBJ = ${SRC:.cpp=.o}
 
-NAME = Weapon
+NAME = weapon
 
 CC = c++
 
